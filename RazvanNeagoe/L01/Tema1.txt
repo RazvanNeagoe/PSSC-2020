@@ -1,0 +1,30 @@
+Stackoverflow.com
+
+O comunitate adresata persoanelor care codeaza unde putem gasi raspunsuri la intrebarile noastre sau putem
+ajuta pe altii cu raspunsurile noastre.
+
+In cadrul site-ului avem urmatoarele butoane si comenzi:
+- Butoanele de "Log in" si "Sign up" pentru crearea contului si logarea pe site;
+- Bara de search cu care putem cauta o intrebare deja existenta pe site. Aceasta cautare se poate face in functie de tag-urile intrebarii, cuvinte, autor;
+- Pictograma "Stackoverflow" duce la pagina de start;
+- Butonul "About" duce la descrierea site-ului;
+- Butonul "Products" duce la afisarea mai multor optiuni:
+	- "Stack Overflow" ne conduce la toate intrebarile si raspunsurile. In aceasta pagina gasim butonul "Ask Question" cu care putem adresa noi o 
+	intrebare sau putem filtra dupa categorii ca: "Newest", "Active", "Bountied", "Unanswered", "More" cu subcategoriile "Frequent" si "Votes";
+	- "Stack Overflow for Teams" este utilizat pentru membrii unei echipe pentru stocarea si gasirea rapida a informatiilor de care acestia au nevoie 
+	in cadrul echipei;
+	- "Jobs" ne duce catre o pagina unde putem cauta locuri de munca. Aici avem o bara de Search unde putem cauta job-ul dorit; avem butoate pentru a
+	 filtra cautarile si un buton "Companies" unde putem cauta job-urile de la o anumita companie.
+	- "Talent" are ca rol angajarea, recrutarea si solutiile de branding ale angajatorilor pentru echipele de tehnologie;
+	- "Advertising" este folosit pentru a-ti promova produsul sau pentru a lua legatura cu dezvoltatori din intreaga lume;
+- Butonul "For Teams" este o scurtatura catre "Stack Overflow for Teams";
+- Butonul din partea stanga sus format din 3 linii conduce la urmatoarele subcategorii:
+	- "Home" duce catre pagina de start;
+	- "Tags" si "Users" pentru vizualizarea tag-urilor si user-ilor;
+	- "Jobs" si "Companies" sunt prezentate mai sus;
+- In partea de mijloc se gasesc butoanele "For developers" si "For businesses";
+- "For developers" duce la 3 subcategorii: "Public Q&A", "Private Q&A" si "Browse Jobs";
+	- "Public Q&A" duce la pagina de intrebari la fel ca si "Stack Overflow" descris mai sus;
+	- "Private Q&A" duce la pagina pentru echipe ca si "Stack Overflow for Teams";
+	- "Browse Jobs" duce la pagina "Jobs";
+- "For businesses" duce la 3 subcategorii: "Private Q&A", "Talent solutions" si "Advertising Platform" care au fost descrise mai sus;
