@@ -1,0 +1,34 @@
+PSSC WORKFLOWS
+
+Bounded context: “Question context”
+Workflow: “Post question” 
+Triggered by : “Post new question request received”
+Input: “New question form” (description, tags, title, programming language etc)	
+Output: “Question posted” event or “Rejected question” or “Manual review”
+Side effects: “Confirmation question” 
+
+Workflow: “Post new question”
+Input: “New question form”
+Output: “Question posted” event or “Rejected question”
+
+//step 1
+Do validate new question form
+If question is rejected then return “Rejected question”
+
+//step 2
+Confirm question and post it
+
+//step 3
+Return “Question published” event
+
+Substep: “Validate new question form”
+Input: “Unvalidate question form”
+Output: “Validate question form”
+Dependencies: Validation of the text by ML
+Analyze the question
+If question is validated then return validated new question form
+Else return validation error and propose for manual review
+
+
+
+
